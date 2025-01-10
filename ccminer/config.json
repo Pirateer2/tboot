@@ -35,30 +35,6 @@
             "url": "stratum+tcp://verushash.mine.zergpool.com:3300",
             "timeout": 180,
             "disabled": 1
-        },
-        {
-            "name": "(THAI)-CEDRIC-CRISPIN-(0.1%)",
-            "url": "stratum+tcp://veruscoin.cedric-crispin.com:4024",
-            "timeout": 180,
-            "disabled": 1
-        },
-        {
-            "name": "(UK)-PADDY-POOL-LOW(3%)",
-            "url": "stratum+tcp://paddypool.net:9998",
-            "timeout": 180,
-            "disabled": 1
-        },
-        {
-            "name": "(CA)-WATT-POOL-(0.5%)",
-            "url": "stratum+tcp://verus.wattpool.net:1232",
-            "timeout": 180,
-            "disabled": 1
-        },
-        {
-            "name": "(GER)-RG3D-EU-(1%)",
-            "url": "stratum+tcp://pool.rg3d.eu:3956",
-            "timeout": 180,
-            "disabled": 1
         }],
 
 
